@@ -1,0 +1,12 @@
+#error-page {
+    height: 94%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#error-page > div > h1, #error-page > div > p {
+    text-align: center;
+    color: #00FFFF;
+}

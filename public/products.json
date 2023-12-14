@@ -1,0 +1,62 @@
+{
+    "LampLed": {
+        "pictures": [
+            "./cdn/products/LampLed/1.png",
+            "./cdn/products/LampLed/2.png",
+            "./cdn/products/LampLed/3.png",
+            "./cdn/products/LampLed/4.png",
+            "./cdn/products/LampLed/5.png"
+        ],
+        "id": "LampLed",
+        "thumbnail": "./cdn/products/LampLed/1.png",
+        "href": "./LampLed",
+        "fr": {
+            "name": "Lampe LED RGB",
+            "description": "Lampe Led sur Pied Design RVB avec Télécommande",
+            "price": "14.99€",
+            "buy": "Acheter",
+            "char": [
+                { "title": "Charactéristique" },
+                { "name": "Taille", "value": "1m10" },
+                { "name": "Poid", "value": "?g" },
+                { "name": "Matériaux", "value": "Pied en métal et en plastique" },
+                { "name": "Chargeur", "value": "USB C" },
+                { "name": "Télécommande", "value": "Pile AAA x2 (non-fourni)" },
+                { "name": "Couleur", "value": "Noir" },
+                { "name": "Consommation", "value": "? Watts" }
+            ]
+        },
+        "en": {
+            "name": "LED Lamp RGB",
+            "description": "Led Floor Lamp Design RGB with Remote Control",
+            "price": "14.99£",
+            "buy": "Buy",
+            "char": [
+                { "title": "Characteristic" },
+                { "name": "Size", "value": "3.30p" },
+                { "name": "Length", "value": "?g" },
+                { "name": "Charger", "value": "USB C" },
+                { "name": "Material", "value": "Metal" },
+                { "name": "Remote", "value": "AAA battery x2 (not supplied)" },
+                { "name": "Color", "value": "Black" },
+                { "name": "Consumption", "value": "? Watts" }
+            ]
+        },
+        "es": {
+            "name": "Lámpara LED RGB",
+            "description": "Lámpara de Pie Led Diseño RGB con Mando a Distancia",
+            "price": "14.99€",
+            "buy": "Comprar",
+            "char": [
+                { "title": "Característica" },
+                { "name": "Tamaño", "value": "1m10" },
+                { "name": "Longitud", "value": "?g" },
+                { "name": "Material", "value": "Metal" },
+                { "name": "Cargador", "value": "USB C" },
+                { "name": "Remoto", "value": "Batería AAA x2 (no incluida)" },
+                { "name": "Color", "value": "Negro" },
+                { "name": "consumo", "value": "? Watts" }
+            ]
+        }
+    }
+}

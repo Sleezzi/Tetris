@@ -1,0 +1,30 @@
+{
+    "en": {
+        "name": "English",
+        "prefix": "en",
+        "buy": "Buy",
+        "contact": "Contact",
+        "legal information": "Information légal",
+        "home": "Home",
+        "close": "Close",
+        "title": "EIT - Lamp Led RGBA"
+    },
+    "fr": {
+        "name": "Français",
+        "prefix": "fr",
+        "buy": "Acheter",
+        "contact": "Contact",
+        "legal information": "Information légal",
+        "home": "Accueil",
+        "close": "Fermer"
+    },
+    "es": {
+        "name": "Español",
+        "prefix": "es",
+        "buy": "Comprar",
+        "contact": "Contactar",
+        "legal information": "Information légal",
+        "home": "Hogar",
+        "close": "Cerca"
+    }
+}

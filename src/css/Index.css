@@ -1,0 +1,30 @@
+body {
+    background: #333;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#root {
+    width: 20%;
+}
+#grid {
+    height: 65%;
+    width: 100%;
+    border: 2px solid black;
+    border-top: 1px solid black;
+}
+#grid > span {
+    width: 10%;
+    height: 5%;
+    display: block;
+    float: left;
+    background: orange;
+}
+
+#grid > span[role="case"] {
+    background: #999;
+    border: 1px solid #444;
+    width: calc(10% - 2px);
+    height: calc(5% - 2px);
+}
